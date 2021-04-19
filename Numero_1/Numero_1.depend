@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1618806784 source:c:\users\lucas\documents\programaçao\2020.2\linguagens de programação\trabalho 3\numero_1\main.cpp
+	<iostream>
+	"agenda.h"
+
+1618279061 source:c:\users\lucas\documents\programaçao\2020.2\linguagens de programação\trabalho 3\numero_1\contato.cpp
+	<iostream>
+	"contato.h"
+
+1618279061 c:\users\lucas\documents\programaçao\2020.2\linguagens de programação\trabalho 3\numero_1\contato.h
+	<string>
+
+1618809521 source:c:\users\lucas\documents\programaçao\2020.2\linguagens de programação\trabalho 3\numero_1\agenda.cpp
+	<stdio.h>
+	<iostream>
+	"agenda.h"
+
+1618797763 c:\users\lucas\documents\programaçao\2020.2\linguagens de programação\trabalho 3\numero_1\agenda.h
+	<string>
+	"contato.h"
+
