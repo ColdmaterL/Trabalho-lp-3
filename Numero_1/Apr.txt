@@ -1,5 +1,0 @@
-Encapsulamento 
-Acessando indiretamente os atributos por funções
-metodos sao pra manipular atributos
-contato.h classe mais interna
-agenda.h classe mais externa
